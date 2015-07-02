@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "My New Site"
+date:   2015-07-02 09:25:11
+categories: jekyll update github
+---
+I've created my [Github Pages][hmayes-github] site!  I will also redirect [hmayes.com][hmayes-com] here.
+
+[hmayes-github]: http://hmayes.github.io
+[hmayes-com]:    http://www.hmayes.com
