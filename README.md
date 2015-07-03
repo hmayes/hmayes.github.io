@@ -1,2 +1,2 @@
 # hmayes.github.io
-Heather Mayes's Github Pages Site
+Heather Mayes's Github Pages Site.
